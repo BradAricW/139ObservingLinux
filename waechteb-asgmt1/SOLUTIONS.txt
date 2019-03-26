@@ -1,0 +1,34 @@
+Brad Waechter
+CSC 139
+Assignment 1
+Part A
+
+What is the CPU type and model? 
+Intel Xeon CPU E5-2640
+
+What version of the Linux kernel is being used? 
+2.6.32-754.9.1.e16.i686
+
+How long (in days, hours, and minutes) has it been since the system was last booted? 
+62:01:00:46 (rounded to the second from 5360446.86 Seconds)
+
+How much of the total CPU time has been spent executing in user mode? System mode? Idle? 
+User: 00:00:46:54 (rounded to the second from 2813.98 Seconds)
+CPU: 00:01:23:53 (rounded to the second from 5032.58 Seconds)
+Idle: 61:20:24:00 (rounded to the second from 5343839.97 Seconds)
+
+How much memory is configured into it? 
+4019000 kB
+
+How much memory is currently available on it? 
+172500 kB
+
+How many disks read/write requests have been made? 
+2458410 Read Requests
+2868205 Write Requests
+
+How many context switches has the kernel performed? 
+951985981
+
+How many processes have been created since the system was booted?
+19189056 
